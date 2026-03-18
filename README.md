@@ -64,7 +64,7 @@ Answer + Source References
 
 ## Project Structure
 ```
-codebase-qa-v2/
+codebase-qa/
 ├── app.py              # Streamlit UI
 ├── indexer.py          # File ingestion, chunking, embedding, Endee upsert
 ├── retriever.py        # Endee query, prompt building, LLM call
@@ -133,4 +133,4 @@ streamlit run app.py
 
 ## Endee Repository
 - Forked from: https://github.com/endee-io/endee
-- My fork: https://github.com/YOUR-USERNAME/endee
+- My fork: https://github.com/Rakshitha0704/endee
