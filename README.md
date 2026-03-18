@@ -1,5 +1,6 @@
 # 💻 Codebase Q&A — RAG with Endee Vector Database
 
+An AI-powered developer assistant that enables semantic understanding of large codebases using Endee Vector Database and LLMs.
 Ask any question about a codebase and get accurate answers grounded in the actual source code.
 
 ## Demo
